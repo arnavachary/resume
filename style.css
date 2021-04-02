@@ -1,0 +1,103 @@
+body{
+    height: 00px !important;
+}
+
+.main-container{   
+    margin: 5% 25% !important;
+    margin-bottom: 100px !important;
+}
+
+#image-container{
+    background-color: rgb(92, 91, 91);
+    width: 100% !important;
+    height:230px !important  ;
+}
+
+#image-container img{
+    margin: 0px 255px !important;
+    margin-top: 6% !important  ;
+    width: 140px;
+    height: 140px;
+    border: 3px dotted rgb(230, 176, 58);
+    border-radius: 100%;
+}
+
+#image-title-background{
+    background-color: white !important;
+    width: 100% !important;
+    height:20px !important  ;
+}
+
+#image-title{
+    background-color: rgb(230, 176, 58) !important;
+    width: 270px !important;
+    height:50px !important  ;
+    text-align: center;
+    padding: 1px 0px;
+    margin: 150px 185px;
+    border-radius: 3% ;
+    position: absolute ;
+    font-family: sans-serif Arial !important;
+}
+
+.address p{
+    color: grey;
+    font-size: small;
+    text-align: center;
+}
+
+.left-content{
+    float: left;
+    width: 46% ;
+    /* background-color: pink; */
+    padding: 2%;
+    border-right: 1px solid grey;
+}
+
+.right-content{
+    float: left;
+    width: 45% ;
+    /* background-color: red; */
+    padding: 2%;
+}
+
+#icon-back{
+    width: 25px;
+    height: 25px;
+    background-color:rgb(92, 91, 91);
+    text-align: center;
+    vertical-align: auto;
+    border-radius: 100%;
+    border: 2px dotted rgb(230, 176, 58);
+    float: left;
+    margin-right: 10px;
+}
+
+i{
+    color:rgb(230, 176, 58);
+    padding-top: 2.5px;
+}
+
+#profile{
+    width: 100%;
+    margin: 5px 0px 0px 15px;
+    color: grey;
+    font-size: 18px;
+}
+
+.skills{
+   
+}
+
+.skills p{
+    float: left;
+    margin: 0px;
+    padding:0px;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.skills div{
+    color:rgb(230, 176, 58);
+    margin-left: 60%;
+}
